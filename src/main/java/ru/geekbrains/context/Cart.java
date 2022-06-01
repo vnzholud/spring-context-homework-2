@@ -1,4 +1,4 @@
-package context;
+package ru.geekbrains.context;
 
 import org.springframework.stereotype.Component;
 

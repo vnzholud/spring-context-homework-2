@@ -1,4 +1,4 @@
-package context;
+package ru.geekbrains.context;
 
 import org.springframework.context.annotation.Primary;
 import org.springframework.stereotype.Component;

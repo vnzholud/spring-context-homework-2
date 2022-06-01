@@ -1,4 +1,4 @@
-package context;
+package ru.geekbrains.context;
 
 public class Product {
     private Long id;
